@@ -1,0 +1,1 @@
+# SubstituicaoPagina_Fifo_LRU
